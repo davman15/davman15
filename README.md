@@ -3,7 +3,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/david-manrique-cordero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david manrique cordero" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-manrique-cordero/" target="blank"><img align="center" src="https://camo.githubusercontent.com/e0278098417dddf…d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="david manrique cordero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes and Herramientas:</h3>
